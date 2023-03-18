@@ -4,3 +4,6 @@
 
 #### Database structure
 https://github.com/Kinash-DV/Cursor-Homework2
+
+#### Demonstration
+![Demonstration](screenRecord.gif)
